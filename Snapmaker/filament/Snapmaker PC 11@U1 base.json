@@ -1,0 +1,9 @@
+{
+  "type": "filament",
+  "from": "System",
+  "instantiation": "false",
+  "filament_vendor": ["Snapmaker"],
+  "material_family": ["PC"],
+  "name": "Snapmaker PC 11@U1 base",
+  "inherits": "fdm_filament_pc_category"
+}

@@ -1,0 +1,9 @@
+{
+  "compatible_printers": ["Snapmaker U1 (0.4 nozzle)"],
+  "filament_vendor": ["Snapmaker"],
+  "instantiation": "true",
+  "type": "filament",
+  "from": "Snapmaker",
+  "name": "Snapmaker PC 11 @U1 0.4 nozzle",
+  "inherits": "Snapmaker PC 11@U1 base"
+}
