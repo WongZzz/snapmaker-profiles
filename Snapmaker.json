@@ -1,6 +1,6 @@
 {
   "name": "Snapmaker",
-  "version": "02.03.05.04",
+  "version": "02.03.05.05",
   "force_update": "0",
   "description": "Snapmaker configurations",
   "machine_model_list": [
@@ -535,6 +535,10 @@
     {
       "name": "fdm_filament_abs_category",
       "sub_path": "filament/fdm_filament_abs_category.json"
+    },
+    {
+      "name": "Snapmaker ABS 12@U1 base",
+      "sub_path": "filament/Snapmaker ABS 12@U1 base.json"
     },
     {
       "name": "fdm_filament_asa_category",
