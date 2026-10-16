@@ -1,6 +1,6 @@
 {
   "name": "Snapmaker",
-  "version": "02.03.05.03",
+  "version": "02.03.05.04",
   "force_update": "0",
   "description": "Snapmaker configurations",
   "machine_model_list": [
@@ -1799,6 +1799,22 @@
     {
       "name": "Snapmaker PC 11 @U1 0.6 nozzle",
       "sub_path": "filament/Snapmaker PC 11 @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Snapmaker ABS 12 @U1 0.2 nozzle",
+      "sub_path": "filament/Snapmaker ABS 12 @U1 0.2 nozzle.json"
+    },
+    {
+      "name": "Snapmaker ABS 12 @U1 0.4 nozzle",
+      "sub_path": "filament/Snapmaker ABS 12 @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Snapmaker ABS 12 @U1 0.6 nozzle",
+      "sub_path": "filament/Snapmaker ABS 12 @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Snapmaker ABS 12 @U1 0.8 nozzle",
+      "sub_path": "filament/Snapmaker ABS 12 @U1 0.8 nozzle.json"
     }
   ],
   "machine_list": [

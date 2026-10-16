@@ -1,0 +1,10 @@
+{
+  "filament_vendor": ["Snapmaker"],
+  "from": "System",
+  "instantiation": "false",
+  "material_family": ["ABS"],
+  "type": "filament",
+  "filament_id": "AS123",
+  "name": "Snapmaker ABS 12@U1 base",
+  "inherits": "fdm_filament_abs_category"
+}
