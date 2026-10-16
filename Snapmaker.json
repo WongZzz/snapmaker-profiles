@@ -1,6 +1,6 @@
 {
   "name": "Snapmaker",
-  "version": "02.03.05.07",
+  "version": "02.03.05.08",
   "force_update": "0",
   "description": "Snapmaker configurations",
   "machine_model_list": [
@@ -543,6 +543,26 @@
     {
       "name": "fdm_filament_asa_category",
       "sub_path": "filament/fdm_filament_asa_category.json"
+    },
+    {
+      "name": "Snapmaker ASA 11111@U1 base",
+      "sub_path": "filament/Snapmaker ASA 11111@U1 base.json"
+    },
+    {
+      "name": "Snapmaker ASA 11111 @U1 0.8 nozzle",
+      "sub_path": "filament/Snapmaker ASA 11111 @U1 0.8 nozzle.json"
+    },
+    {
+      "name": "Snapmaker ASA 11111 @U1 0.6 nozzle",
+      "sub_path": "filament/Snapmaker ASA 11111 @U1 0.6 nozzle.json"
+    },
+    {
+      "name": "Snapmaker ASA 11111 @U1 0.4 nozzle",
+      "sub_path": "filament/Snapmaker ASA 11111 @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Snapmaker ASA 11111 @U1 0.2 nozzle",
+      "sub_path": "filament/Snapmaker ASA 11111 @U1 0.2 nozzle.json"
     },
     {
       "name": "Snapmaker ASA 123@U1 base",
