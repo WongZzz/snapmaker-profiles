@@ -1,0 +1,10 @@
+{
+  "filament_vendor": ["Snapmaker"],
+  "from": "System",
+  "instantiation": "false",
+  "material_family": ["ASA"],
+  "type": "filament",
+  "filament_id": "asa12",
+  "name": "Snapmaker ASA 123@U1 base",
+  "inherits": "fdm_filament_asa_category"
+}
