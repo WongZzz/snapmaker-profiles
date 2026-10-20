@@ -1,0 +1,10 @@
+{
+  "filament_type": ["BVOH"],
+  "filament_vendor": ["Snapmaker"],
+  "from": "System",
+  "instantiation": "false",
+  "type": "filament",
+  "filament_id": "123",
+  "name": "Snapmaker BVOH @U1 base",
+  "inherits": "fdm_filament_bvoh_category"
+}

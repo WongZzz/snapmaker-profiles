@@ -1,6 +1,6 @@
 {
   "name": "Snapmaker",
-  "version": "02.03.05.01",
+  "version": "02.03.05.02",
   "force_update": "0",
   "description": "Snapmaker configurations",
   "machine_model_list": [
@@ -531,6 +531,18 @@
     {
       "name": "fdm_filament_common",
       "sub_path": "filament/fdm_filament_common.json"
+    },
+    {
+      "name": "fdm_filament_bvoh_category",
+      "sub_path": "filament/fdm_filament_bvoh_category.json"
+    },
+    {
+      "name": "Snapmaker BVOH @U1 base",
+      "sub_path": "filament/Snapmaker BVOH @U1 base.json"
+    },
+    {
+      "name": "Snapmaker BVOH @U1 0.2 nozzle",
+      "sub_path": "filament/Snapmaker BVOH @U1 0.2 nozzle.json"
     },
     {
       "name": "fdm_filament_nylon_category",
