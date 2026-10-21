@@ -7,5 +7,6 @@
     "inherits": "Generic ASA @U1 base",
     "compatible_printers": [
         "Snapmaker U1 (0.6 nozzle)"
-    ]
+    ],
+    "filament_soluble": ["1"]
 }
