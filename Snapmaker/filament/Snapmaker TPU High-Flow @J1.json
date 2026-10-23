@@ -10,9 +10,7 @@
     "Snapmaker J1 (0.6 nozzle)",
     "Snapmaker J1 (0.8 nozzle)"
   ],
-  "filament_flow_ratio": [
-    "0.983"
-  ],
+  "filament_flow_ratio": ["0.983","2"],
   "filament_deretraction_speed": [
     "nil"
   ],
@@ -70,9 +68,7 @@
   "filament_end_gcode": [
     ""
   ],
-  "filament_flow_support": [
-    "standard"
-  ],
+  "filament_flow_support": ["standard","high_flow"],
   "filament_loading_speed": [
     "25"
   ],
@@ -171,5 +167,7 @@
   ],
   "filament_unload_time": [
     "0"
-  ]
+  ],
+  "filament_shrink": ["123%"],
+  "filament_shrinkage_compensation_z": ["111%"]
 }
