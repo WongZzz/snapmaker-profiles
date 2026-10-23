@@ -9,5 +9,5 @@
         "Snapmaker U1 (0.8 nozzle)"
     ],
     "filament_soluble": ["1"],
-    "required_nozzle_HRC": ["4"]
+    "required_nozzle_HRC": ["5"]
 }
