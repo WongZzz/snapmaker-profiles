@@ -39,5 +39,6 @@
     "wipe_tower_wall_type": "rib",
     "gap_fill_target": "topbottom",
     "scarf_angle_threshold": "156",
-    "wall_transition_angle": "11"
+    "wall_transition_angle": "11",
+    "process_flow_support": ["high_flow"]
 }
