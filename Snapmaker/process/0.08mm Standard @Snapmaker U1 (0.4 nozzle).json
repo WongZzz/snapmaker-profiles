@@ -37,5 +37,8 @@
     "support_type": "tree(auto)",
     "wipe_tower_extra_rib_length": "8",
     "wipe_tower_wall_type": "rib",
-    "gap_fill_target": "topbottom"
+    "gap_fill_target": "topbottom",
+    "scarf_angle_threshold": "156",
+    "wall_transition_angle": "11",
+    "process_flow_support": ["high_flow"]
 }

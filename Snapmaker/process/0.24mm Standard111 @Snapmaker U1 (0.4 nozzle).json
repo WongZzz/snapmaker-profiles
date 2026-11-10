@@ -1,7 +1,7 @@
 {
     "type": "process",
-    "name": "0.24mm Standard @Snapmaker U1 (0.4 nozzle)",
-    "renamed_from": "0.24 Draft @Snapmaker U1 (0.4 nozzle)",
+    "name": "0.24mm Standard111 @Snapmaker U1 (0.4 nozzle)",
+    "renamed_from": "0.24 Draft @Snapmaker U1 (0.4 nozzle);0.24mm Standard @Snapmaker U1 (0.4 nozzle)",
     "inherits": "fdm_process_U1_0.24",
     "from": "system",
     "bottom_color_penetration_layers": "3",

@@ -1,6 +1,6 @@
 {
   "name": "Snapmaker",
-  "version": "02.03.08.00",
+  "version": "02.03.09.00",
   "force_update": "0",
   "description": "Snapmaker configurations",
   "machine_model_list": [
@@ -145,10 +145,6 @@
     {
       "name": "0.16mm Standard @Snapmaker U1 (0.4 nozzle)",
       "sub_path": "process/0.16mm Standard @Snapmaker U1 (0.4 nozzle).json"
-    },
-    {
-      "name": "0.24mm Standard @Snapmaker U1 (0.4 nozzle)",
-      "sub_path": "process/0.24mm Standard @Snapmaker U1 (0.4 nozzle).json"
     },
     {
       "name": "0.28mm Standard @Snapmaker U1 (0.4 nozzle)",
@@ -479,12 +475,16 @@
       "sub_path": "process/fdm_process_U1_0.24_nozzle_0.8.json"
     },
     {
-      "name": "fdm_process_U1_0.56_nozzle_0.8",
-      "sub_path": "process/fdm_process_U1_0.56_nozzle_0.8.json"
+      "name": "0.3mm 派天测试 @Snapmaker U1 (0.4 nozzle)",
+      "sub_path": "process/0.3mm 派天测试 @Snapmaker U1 (0.4 nozzle).json"
     },
     {
-      "name": "0.10mm Color Mixing @Snapmaker U1 (0.4 nozzle)",
-      "sub_path": "process/0.10mm Color Mixing @Snapmaker U1 (0.4 nozzle).json"
+      "name": "0.24mm Standard111 @Snapmaker U1 (0.4 nozzle)",
+      "sub_path": "process/0.24mm Standard111 @Snapmaker U1 (0.4 nozzle).json"
+    },
+    {
+      "name": "fdm_process_U1_0.56_nozzle_0.8",
+      "sub_path": "process/fdm_process_U1_0.56_nozzle_0.8.json"
     },
     {
       "name": "0.08mm High Quality @Snapmaker U1 (0.2 nozzle)",
