@@ -40,5 +40,6 @@
     "outer_wall_speed": ["200", "500"],
     "internal_solid_infill_speed": ["250", "600"],
     "sparse_infill_speed": ["270", "600"],
-    "process_flow_support": ["standard", "high_flow"]
+    "process_flow_support": ["standard", "high_flow"],
+    "test111": ["测试123","测测222"]
 }
