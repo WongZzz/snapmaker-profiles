@@ -1,0 +1,8 @@
+{
+  "compatible_printers": ["Snapmaker Artisan (0.4 nozzle)"],
+  "instantiation": "true",
+  "type": "filament",
+  "from": "Snapmaker",
+  "name": "Generic ABS-GF @Artisan 0.4 nozzle",
+  "inherits": "Generic ABS-GF @Artisan base"
+}

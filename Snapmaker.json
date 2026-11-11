@@ -1,6 +1,6 @@
 {
   "name": "Snapmaker",
-  "version": "02.03.09.02",
+  "version": "02.03.09.03",
   "force_update": "0",
   "description": "Snapmaker configurations",
   "machine_model_list": [
@@ -531,6 +531,18 @@
     {
       "name": "fdm_filament_common",
       "sub_path": "filament/fdm_filament_common.json"
+    },
+    {
+      "name": "fdm_filament_abs_gf_category",
+      "sub_path": "filament/fdm_filament_abs_gf_category.json"
+    },
+    {
+      "name": "Generic ABS-GF @Artisan base",
+      "sub_path": "filament/Generic ABS-GF @Artisan base.json"
+    },
+    {
+      "name": "Generic ABS-GF @Artisan 0.4 nozzle",
+      "sub_path": "filament/Generic ABS-GF @Artisan 0.4 nozzle.json"
     },
     {
       "name": "fdm_filament_abs_category",

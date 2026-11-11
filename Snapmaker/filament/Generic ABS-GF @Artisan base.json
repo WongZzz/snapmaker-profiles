@@ -1,0 +1,10 @@
+{
+  "filament_type": ["ABS-GF"],
+  "filament_vendor": ["Generic"],
+  "from": "System",
+  "instantiation": "false",
+  "type": "filament",
+  "filament_id": "123",
+  "name": "Generic ABS-GF @Artisan base",
+  "inherits": "fdm_filament_abs_gf_category"
+}
