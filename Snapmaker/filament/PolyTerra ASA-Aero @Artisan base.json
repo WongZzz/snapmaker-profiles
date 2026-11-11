@@ -1,0 +1,10 @@
+{
+  "filament_type": ["ASA-Aero"],
+  "filament_vendor": ["PolyTerra"],
+  "from": "System",
+  "instantiation": "false",
+  "type": "filament",
+  "filament_id": "1235",
+  "name": "PolyTerra ASA-Aero @Artisan base",
+  "inherits": "fdm_filament_asa_aero_category"
+}

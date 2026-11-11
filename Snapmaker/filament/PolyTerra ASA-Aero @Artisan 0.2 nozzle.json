@@ -1,0 +1,9 @@
+{
+  "compatible_printers": ["Snapmaker Artisan (0.2 nozzle)"],
+  "instantiation": "true",
+  "type": "filament",
+  "from": "Snapmaker",
+  "name": "PolyTerra ASA-Aero @Artisan 0.2 nozzle",
+  "inherits": "PolyTerra ASA-Aero @Artisan base",
+  "filament_wipe": ["1"]
+}
