@@ -1,0 +1,7 @@
+{
+  "from": "System",
+  "instantiation": "false",
+  "type": "filament",
+  "name": "fdm_filament_asa_aero_category",
+  "inherits": "fdm_filament_common"
+}

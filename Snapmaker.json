@@ -1,6 +1,6 @@
 {
   "name": "Snapmaker",
-  "version": "02.03.10.00",
+  "version": "02.03.10.01",
   "force_update": "0",
   "description": "Snapmaker configurations",
   "machine_model_list": [
@@ -531,6 +531,26 @@
     {
       "name": "fdm_filament_common",
       "sub_path": "filament/fdm_filament_common.json"
+    },
+    {
+      "name": "fdm_filament_asa_aero_category",
+      "sub_path": "filament/fdm_filament_asa_aero_category.json"
+    },
+    {
+      "name": "Polymaker ASA-Aero 123 @U1 base",
+      "sub_path": "filament/Polymaker ASA-Aero 123 @U1 base.json"
+    },
+    {
+      "name": "Polymaker ASA-Aero 123 @U1 0.2 nozzle",
+      "sub_path": "filament/Polymaker ASA-Aero 123 @U1 0.2 nozzle.json"
+    },
+    {
+      "name": "Polymaker ASA-Aero 123 @U1 0.4 nozzle",
+      "sub_path": "filament/Polymaker ASA-Aero 123 @U1 0.4 nozzle.json"
+    },
+    {
+      "name": "Polymaker ASA-Aero 123 @U1 0.6 nozzle",
+      "sub_path": "filament/Polymaker ASA-Aero 123 @U1 0.6 nozzle.json"
     },
     {
       "name": "fdm_filament_abs_gf_category",

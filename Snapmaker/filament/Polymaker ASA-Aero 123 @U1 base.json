@@ -1,0 +1,10 @@
+{
+  "filament_type": ["ASA-Aero"],
+  "filament_vendor": ["Polymaker"],
+  "from": "System",
+  "instantiation": "false",
+  "type": "filament",
+  "filament_id": "124354",
+  "name": "Polymaker ASA-Aero 123 @U1 base",
+  "inherits": "fdm_filament_asa_aero_category"
+}
