@@ -17,5 +17,6 @@
   "nozzle_diameter": [
     "0.6",
     "0.6"
-  ]
+  ],
+  "printable_height": "401"
 }
