@@ -210,9 +210,7 @@
     "filament_cooling_moves": [
         "4"
     ],
-    "filament_cost": [
-        "20"
-    ],
+    "filament_cost": ["21"],
     "filament_deretraction_speed": [
         "nil"
     ],
