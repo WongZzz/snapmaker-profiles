@@ -163,9 +163,7 @@
     "support_material_interface_fan_speed": [
         "-1"
     ],
-    "temperature_vitrification": [
-        "100"
-    ],
+    "temperature_vitrification": ["99"],
     "textured_cool_plate_temp": [
         "40"
     ],
