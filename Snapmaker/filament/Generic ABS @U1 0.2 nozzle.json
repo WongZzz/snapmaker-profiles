@@ -91,9 +91,7 @@
     "filament_retraction_minimum_travel": [
         "nil"
     ],
-    "filament_shrink": [
-        "100%"
-    ],
+    "filament_shrink": ["90%"],
     "filament_shrinkage_compensation_z": ["12%"],
     "filament_soluble": [
         "0"
