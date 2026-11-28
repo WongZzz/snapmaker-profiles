@@ -599,17 +599,6 @@
 	    "enabled": true,
 	    "filament_color": [
 	      {
-	        "sku": "34265",
-	        "TD": 8.8,
-	        "mode": 0,
-	        "filament_color": ["#9199A4"],
-	        "color_name": {
-	          "en": "Semi-Translucent Gray",
-	          "zh_CN": "半透灰色"
-	        },
-	        "enabled": true
-	      },
-	      {
 	        "sku": "34266",
 	        "mode": 0,
 	        "TD": 6.5,
